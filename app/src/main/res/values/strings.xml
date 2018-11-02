@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">DemoHandler</string>
+    <string name="count">0</string>
+    <string name="title_activity_my_async_task">MyAsyncTask</string>
+    <string name="button_start">Start</string>
+    <string name="button_async_task">Async</string>
 </resources>
